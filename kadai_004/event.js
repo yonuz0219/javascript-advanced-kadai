@@ -1,6 +1,6 @@
 
 $(window).on('load',function(){
-    console.log("ページのすべてが読み込まれました！");
+    console.log("loadイベントが発生しました");
 });
 
 $(window).on('scroll',function(){
